@@ -1,1 +1,2 @@
-# software-architecture-go
+# Hands Software Architecture in Go
+
